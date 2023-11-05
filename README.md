@@ -32,7 +32,7 @@ You can access the project's source code on [GitHub](https://github.com/mubassir
 
 ## Local Run This Application
 
-If you  want to run my application on your local machine, then flow my this command ```npm run dev```.  
+If you  want to run my application on your local machine, then clone this repo. After that, run the app from the  Visual Studio code terminal with this command ```npm run dev```.  
 
 Done!!
 
